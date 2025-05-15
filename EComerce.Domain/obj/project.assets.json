@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\ModelClasses\\ModelClasses.csproj",
-      "projectName": "ModelClasses",
-      "projectPath": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\ModelClasses\\ModelClasses.csproj",
+      "projectUniqueName": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\EComerce.Domain\\EComerce.Domain.csproj",
+      "projectName": "EComerce.Domain",
+      "projectPath": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\EComerce.Domain\\EComerce.Domain.csproj",
       "packagesPath": "C:\\Users\\Sardor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\ModelClasses\\obj\\",
+      "outputPath": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\EComerce.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sardor\\AppData\\Roaming\\NuGet\\NuGet.Config",

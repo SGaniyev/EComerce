@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAcces", "DatabaseAcces\DatabaseAcces.csproj", "{36CE7C72-667D-41A5-A28B-95D869D9B3C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EComerce.Infrastucture", "EComerce.Infrastucture\EComerce.Infrastucture.csproj", "{36CE7C72-667D-41A5-A28B-95D869D9B3C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelClasses", "ModelClasses\ModelClasses.csproj", "{5D882595-5769-4BDC-9B63-280AE9E3E220}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EComerce.Domain", "EComerce.Domain\EComerce.Domain.csproj", "{5D882595-5769-4BDC-9B63-280AE9E3E220}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EComerce", "EComerce\EComerce.csproj", "{1492C732-B83B-48A7-8EDE-C3A8138A1076}"
 EndProject

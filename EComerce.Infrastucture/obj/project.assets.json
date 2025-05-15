@@ -2992,11 +2992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\DatabaseAcces\\DatabaseAcces.csproj",
-      "projectName": "DatabaseAcces",
-      "projectPath": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\DatabaseAcces\\DatabaseAcces.csproj",
+      "projectUniqueName": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\EComerce.Infrastucture\\EComerce.Infrastucture.csproj",
+      "projectName": "EComerce.Infrastucture",
+      "projectPath": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\EComerce.Infrastucture\\EComerce.Infrastucture.csproj",
       "packagesPath": "C:\\Users\\Sardor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\DatabaseAcces\\obj\\",
+      "outputPath": "C:\\Users\\Sardor\\RiderProjects\\EComerce\\EComerce.Infrastucture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sardor\\AppData\\Roaming\\NuGet\\NuGet.Config",
