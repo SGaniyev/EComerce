@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAcces", "DatabaseAcces\DatabaseAcces.csproj", "{36CE7C72-667D-41A5-A28B-95D869D9B3C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelClasses", "ModelClasses\ModelClasses.csproj", "{5D882595-5769-4BDC-9B63-280AE9E3E220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EComerce", "EComerce\EComerce.csproj", "{1492C732-B83B-48A7-8EDE-C3A8138A1076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CE7C72-667D-41A5-A28B-95D869D9B3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CE7C72-667D-41A5-A28B-95D869D9B3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CE7C72-667D-41A5-A28B-95D869D9B3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CE7C72-667D-41A5-A28B-95D869D9B3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D882595-5769-4BDC-9B63-280AE9E3E220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D882595-5769-4BDC-9B63-280AE9E3E220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D882595-5769-4BDC-9B63-280AE9E3E220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D882595-5769-4BDC-9B63-280AE9E3E220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1492C732-B83B-48A7-8EDE-C3A8138A1076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1492C732-B83B-48A7-8EDE-C3A8138A1076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1492C732-B83B-48A7-8EDE-C3A8138A1076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1492C732-B83B-48A7-8EDE-C3A8138A1076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
